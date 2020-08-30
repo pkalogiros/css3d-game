@@ -414,7 +414,7 @@
         'intro' : [{
             title: 'Abandoned Cells',
             body: ['You reach a seemingly out of place tunnel.', 'Among the empty cells stands an imposing reinforced gate.',
-            'Perhaps its just your imagination, but you think you can hear faint sighs ',
+            'Perhaps it\'s just your imagination, but you think you can hear faint sighs ',
             'coming from the other side...']
         }]
         // --

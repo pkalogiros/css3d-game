@@ -2208,7 +2208,7 @@
 
             'leech' : [
               ['Suddenly you freeze to your tracks.',
-               'Weird sounds echo from the depths of the cannals,',
+               'Weird sounds echo from the depths of the canals,',
                'and seem to get closer and closer to you...'],
 
               ['Your heart races as you focus to the direction of the sounds...'],
@@ -2233,10 +2233,10 @@
               'Your muscles are tense and you can hear your heart pulsate in your ears.',
               'Countless scenarios run through your mind.'],
 
-              ['Suddenly, somethings draws the creature\'s attention. '],
-              ['It quickly moves away, soon to disappear in the depths of the cannals.',
+              ['Suddenly, something draws the creature\'s attention. '],
+              ['It quickly moves away, soon to disappear in the depths of the canals.',
               'Are you safe now?',
-              'What could the next step in this treacherous waters bring?']
+              'What could the next step in these treacherous waters bring?']
 
             ],
 
@@ -2253,7 +2253,7 @@
 
               [{
                   type: 'choice',
-                  text : 'Pick up the decorational torch?',
+                  text : 'Pick up the decorative torch?',
                   options : [
                     { 'text' : 'Yes' }, { 'text' : 'No' }
                   ]
@@ -2263,7 +2263,7 @@
 
             'doortorch' : [
               // 0
-              ['The door does not badge, and there is no visible door handle.'],
+              ['The door does not budge, and there is no visible door handle.'],
 
               // 1
               [{
@@ -2275,7 +2275,7 @@
               }],
 
               // 2
-              ['You hear a distance mechanical clicking sound. Perhaps the door is now activated.'],
+              ['You hear a distant mechanical clicking sound. Perhaps the door is now activated.'],
 
               // 3
               ['<i class="blue">A peculiar looking slot on the wall.</i>']

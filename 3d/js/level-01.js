@@ -2285,11 +2285,11 @@
                 }
             ],
             [ // 12
-              'You try to lift the grate to no avail. Your body is weak and malnourished, ', 'or the grate t is weld shut to the floor. perhaps both.'
+              'You try to lift the grate to no avail. Your body is weak and malnourished, ', 'or the grate is welded shut to the floor. Perhaps both.'
             ],
 
             [ // 13
-              'You use the bone as a lever and lift the grate, it breaks in the process ', 'but gives you enough leeway to drag it our of the way.'
+              'You use the bone as a lever and lift the grate; it breaks in the process ', 'but gives you enough leeway to drag it our of the way.'
             ],
 
             [ // 14
@@ -2314,7 +2314,7 @@
             ],
 
             // 17
-            [ 'You light the book on fire and mesmerized watch it burn.',
+            [ 'You light the book on fire and, mesmerized, watch it burn.',
               'You are in too much discomfort to laugh, but are able to crack a wide ear to ear grin.',
               'Its pages shrivel and shrink as the flame engulfs them,',
               'leaving behind a mere black stain of ash.'],
@@ -2337,14 +2337,14 @@
                     {
                       title: 'you feel immensely fatigued.',
                       body: ['As you move your tongue in your dry mouth, you recoil as you notice that ',
-                             'you now have less teeth than before.',
+                             'you now have fewer teeth than before.',
                              'You quickly pull yourself together and squint your eyes trying to ',
                              'make sense of your surroundings. There has to be a way out.']
                     },
 
                     {
                       title:'Your eyes slowly begin to adjust to the darkness...',
-                      body: ['you try to make sense of your surroundings, there has to be a way out of this place.']
+                      body: ['You try to make sense of your surroundings, there has to be a way out of this place.']
                     },
 
                     '<i class="darkgray">(Your vision returns to normal)</i>',

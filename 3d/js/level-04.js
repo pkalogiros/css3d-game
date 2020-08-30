@@ -1141,7 +1141,7 @@
         'intro' : [{
             title: 'Abandoned Cells',
             body: ['You reach a seemingly out of place tunnel.', 'Among the empty cells stands an imposing reinforced gate.',
-            'Perhaps its just your imagination, but you think you can hear faint sighs ',
+            'Perhaps it\'s just your imagination, but you think you can hear faint sighs ',
             'coming from the other side...']
         }],
 
@@ -1190,7 +1190,7 @@
 
           // 5
           ['Your fear turns to confusion and relief as you see an old lady clad in black...',
-           'You try to talk to her but she ignores you, she just mumbles prayers ', 'while moving back and forth.',
+           'You try to talk to her but she ignores you; she just mumbles prayers ', 'while moving back and forth.',
            '',
            'There is nothing else you can do.'],
 
